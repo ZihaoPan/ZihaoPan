@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZihaoPan (Weldon)
 - 👀 I’m interested in Data, algorithm and IOT
-- 🌱 I’m currently learning IOT and AI
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning signal processing, IOT and AI
+- 💞️ I’m looking to collaborate on Biotechnology, ASR and Brainwave recognition
 - 📫 How to reach me ...
 
 <!---
